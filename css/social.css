@@ -1,0 +1,65 @@
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa-solid {
+    padding: 0px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+
+  .fa:hover {
+    opacity: 0.9;
+    color:rgba(238, 226, 226, 0.815);
+  }
+  
+
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: rgba(255, 255, 255, 0.925);
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  /* GitHub */
+.fa-github {
+    background-color: rgba(255, 255, 255, 0.925);
+    color: rgba(9, 8, 8, 0.8);
+    padding: 10px;
+} 
+
+.fa-linkedin {
+    color:rgba(230, 221, 221, 0.925);
+    background-color: rgba(9, 20, 230, 0.8) ;
+}
+
+.fa-google {
+    color: rgba(230, 221, 221, 0.925);
+    background-color: rgba(204, 38, 38, 0.952);
+}
+
+.fa-file-pdf-o{
+    color:rgba(9, 8, 8, 0.8);
+    background-color: rgba(230, 221, 221, 0.925);
+    padding: 1px;
+}
+
+.cv_icon {
+    width: 37px;
+    height: 37px;
+    background-color: rgba(68, 173, 103, 0.411);
+}
