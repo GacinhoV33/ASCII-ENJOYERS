@@ -1,0 +1,51 @@
+body{
+    color: #cbcbd1;
+}
+
+.segment{
+    min-height: 100vh;
+    color: #cbcbd1;
+}
+
+header{
+    height: 80px;
+    background-color: azure;
+}
+
+.profile{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.profile-holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+.profile-right{
+    justify-content: end;
+}
+
+#projects-title{
+    width: fit-content;
+    margin-top: 20px;
+}
+
+#intro{
+    background-color: #5f6163;
+}
+
+#projects{
+    background-color: #393e42;
+}
+
+#about{
+    background-color: #2d2d2e;
+}
